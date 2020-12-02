@@ -170,6 +170,9 @@ ul.nav_bar {
     position: relative;
     overflow: hidden;
 }
+.bi-box-seam {
+    margin: 15px;
+}
 
 .card_body:hover {
     -webkit-transition: all 300ms ease-in-out;
